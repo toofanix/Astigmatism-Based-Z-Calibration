@@ -6,5 +6,5 @@ The method is based on astigmatism which introduces assymetry in the point sprea
 
 In order to create the calibration curve, a wide-field image of fluorescent beads (bead size smaller than diffraction limit, in the example data I have used 20 nm beads) is collected over a z range of -1000 nm to +1000 nm ( step-size = 2 nm). Typically, 0 is the focal point.
 
-Here 
+Please follow the Wiki for more information about the scripts.
 
